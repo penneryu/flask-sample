@@ -1,8 +1,4 @@
-from flask import Flask, jsonify
-from flask import abort
-from flask import make_response
-from flask import request
-from flask import url_for
+from flask import Flask, jsonify, abort, make_response, request, url_for
 from flask_httpauth import HTTPBasicAuth
 
 app = Flask(__name__)

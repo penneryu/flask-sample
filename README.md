@@ -6,3 +6,4 @@ use flask to build simple restfull webservice on python
 
         pip install flask
         pip install flask-httpauth
+		pip install flask-restful
